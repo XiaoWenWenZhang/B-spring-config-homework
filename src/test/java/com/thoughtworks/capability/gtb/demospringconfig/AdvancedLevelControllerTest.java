@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @SpringBootTest
 @TestPropertySource
-public class AdvancedLevelController {
+public class AdvancedLevelControllerTest {
     @Autowired
     LevelController levelController;
 
